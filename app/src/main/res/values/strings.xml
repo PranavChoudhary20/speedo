@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">speedo</string>
+    <string name="location_permission">Need Location Permission</string>
+    <string name="permission_description">This app need location permission</string>
+    <string name="permission_grant">Grant</string>
+    <string name="permission_cancel">Cancel</string>
+    <string name="goto_settings">Go to Permissions to grant location</string>
+    <string name="unable_toget_permission">Unable to get permission</string>
+</resources>
